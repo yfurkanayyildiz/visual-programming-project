@@ -20,9 +20,7 @@ namespace Memory_Game
         "!", "!", "N", "N", ",", ",", "k", "k",
         "b", "b", "v", "v", "w", "w", "z", "z"
     };
-        /// <summary>
-        /// Assign each icon from the list of icons to a random square
-        /// </summary>
+        
         private void AssignIconsToSquares()
         {
             // The TableLayoutPanel has 16 labels,
@@ -41,9 +39,12 @@ namespace Memory_Game
                 }
             }
         }
+
         public Form1()
         {
             InitializeComponent();
+
+            AssignIconsToSquares();
         }
 
         private void Form1_Load(object sender, EventArgs e)
