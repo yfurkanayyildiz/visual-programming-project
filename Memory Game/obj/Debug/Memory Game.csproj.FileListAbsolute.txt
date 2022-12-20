@@ -9,3 +9,5 @@ C:\Users\yusuf\source\repos\Memory Game\Memory Game\bin\Debug\Memory Game.exe
 C:\Users\yusuf\source\repos\Memory Game\Memory Game\bin\Debug\Memory Game.pdb
 C:\Users\yusuf\source\repos\Memory Game\Memory Game\obj\Debug\Memory Game.exe
 C:\Users\yusuf\source\repos\Memory Game\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\yusuf\source\repos\Memory Game\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\yusuf\source\repos\Memory Game\Memory Game\obj\Debug\Memory_Game.Form3.resources
