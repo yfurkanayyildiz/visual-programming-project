@@ -13,8 +13,6 @@ namespace Memory_Game
     
     public partial class Form1 : Form
     {
-        //main menü denemesi
-        //public Form1 mainMenu;
 
         Label firstClicked = null;
         Label secondClicked = null;

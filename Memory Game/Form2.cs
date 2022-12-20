@@ -20,8 +20,6 @@ namespace Memory_Game
         private void memory_game(object sender, EventArgs e)
         {
             Form1 memoryGame = new Form1();
-            //main menü kapanmıyor yada tekrar açılmıyor
-            //memoryGame.mainMenu = this;
             memoryGame.Show();
             this.Hide();
             
@@ -31,9 +29,5 @@ namespace Memory_Game
         {
 
         }
-        //public void showMainMenu()
-        //{
-        //    this.Show();
-        //}
     }
 }
